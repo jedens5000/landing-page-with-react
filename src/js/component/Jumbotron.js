@@ -4,7 +4,7 @@ const Jumbotron = () => {
 	return (
 		<div className="p-5 mb-4 rounded-3">
 			<div className="container-fluid bg-light p-5">
-				<h1 className="display-5 fw-bold">A Warm Welcome!</h1>
+				<h1 className="display-3 fw">A Warm Welcome!</h1>
 				<p className="col-md-12 fs-4">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					Praesent quis elit at ipsum iaculis congue. Quisque
